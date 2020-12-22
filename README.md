@@ -1,5 +1,5 @@
 
-# Tiago Barros :man_technologist:
+# A little bit about me :man_technologist:
 
 ### Helooo! welcome to my profile 👋
 

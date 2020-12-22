@@ -17,7 +17,10 @@ I'm Tiago and ...:
 - Tailwind CSS <img align="left" alt="Tailwind-CSS" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=TiagoBarros01&&show_icons=true&title_color=ffffff&icon_color=DCDCDC&text_color=32CD32&bg_color=151515">
+<div id="status">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=TiagoBarros01&&show_icons=true&title_color=ffffff&icon_color=DCDCDC&text_color=32CD32&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagobarros01">
+</div>
 
 <br/>
 

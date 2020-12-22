@@ -5,7 +5,7 @@
 
 I'm Tiago and ...:
 
-- 🌱 Currently learning Javascript, React and NodeJS
+- 🌱 Currently learning Javascript, React, NodeJS and a little Electron
 - 👯 I’m looking to collaborate with other content creators
 - 😎 I´m really like to learn
 - 🌎 And i also like to play FPS and Racing games

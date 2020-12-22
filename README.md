@@ -11,7 +11,6 @@ I'm Tiago and ...:
 - 🌎 And i also like to play FPS and Racing games
 
 <br/>
-<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=TiagoBarros01&&show_icons=true&title_color=ffffff&icon_color=DCDCDC&text_color=32CD32&bg_color=151515">
 

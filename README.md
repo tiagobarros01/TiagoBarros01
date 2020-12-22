@@ -14,6 +14,8 @@ I'm Tiago and ...:
 
 <img src="https://github-readme-stats.vercel.app/api?username=TiagoBarros01&&show_icons=true&title_color=ffffff&icon_color=DCDCDC&text_color=32CD32&bg_color=151515">
 
+<br/>
+
 <div>
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />

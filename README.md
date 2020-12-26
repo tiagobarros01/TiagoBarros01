@@ -5,7 +5,7 @@
 
 I'm Tiago and ...:
 
-- 🌱 Currently learning Javascript, React, NodeJS and a little Electron
+- 🌱 Currently learning Javascript, React and NodeJS
 - 👯 I’m looking to collaborate with other content creators
 - 😎 I´m really like to learn
 - 🌎 And i also like to play FPS and Racing games
@@ -28,5 +28,4 @@ I'm Tiago and ...:
 <img align="left" alt="JavaScript" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Electron" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />
 </div>

@@ -6,7 +6,7 @@
 I'm Tiago and ...:
 
 - 🌱 Currently learning Javascript, React and NodeJS
-- 👯 I’m looking to collaborate with other content creators
+- 🌐 I’m looking to collaborate with other content creators
 
 ## I'm working in these technologies:
 

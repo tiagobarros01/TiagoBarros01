@@ -12,7 +12,7 @@ I'm Tiago and ...:
 
   - Javacript<img align="left" alt="Javascript" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <br/><br/>
 - React <img align="left" alt="React-Native" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <br/><br/>
-- NodeJS <img align="left" alt="Tailwind-CSS" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+- NodeJS <img align="left" alt="Tailwind-CSS" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <br><br>
 - I must migrate to Typescript <img align="left" alt="Javascript" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
 <br/>

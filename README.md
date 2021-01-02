@@ -3,7 +3,7 @@
 
 ## Helooo! welcome to my profile 👋
 
-I'm Tiago and ...:
+### I'm Tiago and ...:
 
 - 🔥 Currently learning Javascript, React and NodeJS
 - 🌐 I’m looking to collaborate with other content creators

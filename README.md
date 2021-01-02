@@ -1,7 +1,7 @@
 
 # A little bit about me :man_technologist:
 
-### Helooo! welcome to my profile 👋
+## Helooo! welcome to my profile 👋
 
 I'm Tiago and ...:
 

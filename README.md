@@ -18,7 +18,7 @@
 <br/>
 
 <div id="status">
-<img height="195px" src="https://github-readme-stats.vercel.app/api?username=tiagobarros01&show_icons=true&theme=dark" />
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobarros01&layout=compact&hide=shell&theme=dark" />
+<img height="165px" align="left" src="https://github-readme-stats.vercel.app/api?username=tiagobarros01&show_icons=true&theme=dark" />
+<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobarros01&layout=compact&hide=shell&theme=dark" />
 </div>
 

@@ -5,11 +5,11 @@
 
 ## I'm working in these technologies:
 
-- Typescript <img align="left" alt="Typescript" width="24px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />
+- <strong>Typescript<img align="left" alt="Typescript" width="24px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" /></strong>
  
-- ReactJS<img align="left" alt="React" width="24px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
+- <strong>ReactJS<img align="left" alt="React" width="24px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></strong>
  
-- NodeJS <img align="left" alt="Node-JS" width="24px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" />
+- <strong>NodeJS <img align="left" alt="Node-JS" width="24px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" /></strong>
 
 <br />
 

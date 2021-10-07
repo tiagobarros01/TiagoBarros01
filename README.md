@@ -1,9 +1,11 @@
 
-# Welcome :man_technologist:
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermerodz)
 
-- 🔥 I'm a Front-end Developer
+Hi there 👋
 
-## I'm working with these technologies:
+I'm a Front-end Developer 👨‍💻
+
+### At moment I'm working with these technologies:
 
 - <strong>Typescript<img align="left" alt="Typescript" width="24px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" /></strong>
  
@@ -17,4 +19,3 @@
 <img height="165px" align="left" src="https://github-readme-stats.vercel.app/api?username=tiagobarros01&show_icons=true&theme=dark" />
 <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobarros01&layout=compact&hide=shell&theme=dark" />
 </div>
-

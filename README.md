@@ -10,6 +10,8 @@ I'm a Front-end Developer 👨‍💻
 - <strong>Typescript<img align="left" alt="Typescript" width="24px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" /></strong>
  
 - <strong>ReactJS<img align="left" alt="React" width="24px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></strong>
+
+- <strong>React Native<img align="left" alt="React Native" width="24px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></strong>
  
 - <strong>NodeJS <img align="left" alt="Node-JS" width="24px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" /></strong>
 

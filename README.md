@@ -1,6 +1,3 @@
-
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tiagobarrosdev)
-
 Hi there 👋
 
 I'm a Front-end Developer 👨‍💻

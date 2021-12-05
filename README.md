@@ -1,8 +1,8 @@
-Hi there 👋
+## Hi there 👋
 
-I'm a Front-end Developer 👨‍💻
+### I'm a Front-end Developer 👨‍💻
 
-### At moment I'm working with these technologies:
+#### At moment I'm working with these technologies:
 
 - <strong>Typescript<img align="left" alt="Typescript" width="24px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" /></strong>
  

@@ -9,6 +9,8 @@
 - <strong>ReactJS<img align="left" alt="React" width="24px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></strong>
 
 - <strong>React Native<img align="left" alt="React Native" width="24px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></strong>
+
+- <strong>Firebase<img align="left" alt="Firebase" width="22px" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg"/></strong>
  
 - <strong>NodeJS <img align="left" alt="Node-JS" width="24px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" /></strong>
 

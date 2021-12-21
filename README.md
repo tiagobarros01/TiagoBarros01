@@ -10,7 +10,7 @@
 
 - <strong>Firebase<img align="left" alt="Firebase" width="22px" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg"/></strong>
  
-- <strong>NodeJs <img align="left" alt="Node-JS" width="24px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" /></strong>
+- <strong>NodeJs <img align="left" alt="NodeJs" width="24px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" /></strong>
 
 <br />
 

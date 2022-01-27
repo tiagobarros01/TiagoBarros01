@@ -1,16 +1,12 @@
-## Hi there 👋
+## A little about me 👨🏻‍💻
 
-### I'm a Front-end Developer 👨‍💻
-
-#### At moment I'm working with these technologies:
-
-- <strong>Typescript<img align="left" alt="Typescript" width="24px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" /></strong>
- 
-- <strong>ReactJs | Native<img align="left" alt="React" width="24px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></strong>
-
-- <strong>NodeJs <img align="left" alt="NodeJs" width="24px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" /></strong>
-
+What's up 👋🏻
 <br />
+I'm Tiago Barros Front-end Developer at [Soberano Brazil](https://github.com/soberano-brazil), working over React/NextJs and React Native ecosystem.
+
+My favourites tools: <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>, <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React/NextJs & React Native</b>
+
+Currently learning: <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="18"/> <b>Firebase</b>, <img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>NodeJs</b>
 
 <div id="status">
  <img height="165px" align="left" src="https://github-readme-stats.vercel.app/api?username=tiagobarros01&show_icons=true&theme=dark" />

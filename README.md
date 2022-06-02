@@ -2,7 +2,7 @@
 
 What's up 👋🏻
 <br />
-I'm Tiago Barros Front-end Developer at [Soberano Brazil](https://github.com/soberano-brazil), working over React/NextJs and React Native ecosystem.
+I'm Tiago Barros Front-end Developer at [Croct](https://github.com/croct-tech), working over React/NextJs and React Native ecosystem.
 
 My favourites tools: <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>, <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React/NextJs & React Native.</b>
 

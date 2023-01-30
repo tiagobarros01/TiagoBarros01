@@ -5,7 +5,7 @@
         "Typescript",
         "React",
         "Next",
-        "GraphQl",
+        "GraphQL",
         "Relay",
         "Unit and E2E tests"
         "Accessibility",

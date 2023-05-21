@@ -12,6 +12,5 @@
         "Node",
         "Prisma"
     ],
-    "linkedIn": "https://www.linkedin.com/in/tiagobarrosdev",
 }
 ```
